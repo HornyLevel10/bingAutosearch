@@ -119,6 +119,7 @@ console.log(random_item(searches));
 
 // loop to open 10 tabs
 var i = 0;
+// note: edit 10 on the line below to 50 to do all at once
 while (i < 10) {
     var url = "https://www.bing.com/search?q=" + random_item(searches);
     open(url);
