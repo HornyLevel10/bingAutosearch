@@ -6,7 +6,8 @@ I mainly did this to practice javascript. I have experience in other languages b
 Requirements<br />
 If running from devtools, the only requirement would be Chrome itself. Also, an exception is needed because chrome blocks popups by default, so only one search will run at a time. 
 
-Navigate in Chrome to: chrome://settings/content/popups<br />
+Navigate in Chrome to:<br />
+chrome://settings/content/popups<br />
 
 add an exception for Bing and Microsoft sites<br />
 
