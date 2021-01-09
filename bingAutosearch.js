@@ -11,7 +11,7 @@ function random_item(searches) {
 }
 
 
-// list of google most popular searches 2020
+// array of Google's most popular searches in 2020
 var searches = [
     "facebook",
     "youtube",
