@@ -1,2 +1,2 @@
 # bingAutosearch.js
-automates searching bing for msRewards from chrome's devtools
+automates searching bing for Microsoft/Bing Rewards from chrome's devtools
